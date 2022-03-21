@@ -18,3 +18,5 @@
 `git merge dev`:合并dev分支到当前分支
 
 `git brancd -d dev`：删除分支dev
+
+`git remote rm origin`：删除关联origin的仓库
